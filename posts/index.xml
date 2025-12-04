@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on EpsilonZone</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://epsilonzone.github.io/posts/</link>
     <description>Recent content in Posts on EpsilonZone</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 04 Dec 2025 17:44:33 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://epsilonzone.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mypost</title>
-      <link>http://localhost:1313/posts/mypost/</link>
+      <link>https://epsilonzone.github.io/posts/mypost/</link>
       <pubDate>Thu, 04 Dec 2025 17:44:33 +0000</pubDate>
-      <guid>http://localhost:1313/posts/mypost/</guid>
+      <guid>https://epsilonzone.github.io/posts/mypost/</guid>
       <description>&lt;p&gt;Hello world!&lt;/p&gt;</description>
     </item>
   </channel>
